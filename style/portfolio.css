@@ -282,6 +282,9 @@ font-size:18px;
     margin-top: 130px;
     margin-left: 230px;
 }
+.div1 a{
+    text-decoration: none;
+}
 .div1 .foot-title{
     color: var(--Dark-01, #181818);
 font-family: Open Sans;
